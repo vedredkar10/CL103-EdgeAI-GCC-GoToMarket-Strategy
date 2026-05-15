@@ -77,7 +77,7 @@ structured pathway from concept to production deployment.
 
 ---
 
-## 🛠️ BA Techniques Applied
+## BA Techniques Applied
 
 | Technique | Application |
 |---|---|
