@@ -1,4 +1,4 @@
-# Competitive Gap Analysis
+# Gap Analysis Documentation
 **Project:** GCC Edge AI Go-To-Market Strategy
 **Client:** Dubai-based Edge AI hardware venture (anonymised)
 **BA:** Ved Redkar | Visionize Consultancy LLP
